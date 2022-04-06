@@ -13,8 +13,7 @@ esc = 0
 while esc != 1 and 2 and 3:
     if esc == 3:
         break
-    esc = int(input('''
-[1] Converter números para binário
+    esc = int(input('''[1] Converter números para binário
 [2] Converter binários em número 
 [3] Sair
 '''))
